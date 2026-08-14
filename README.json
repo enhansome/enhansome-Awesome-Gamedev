@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Art"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Design"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Organization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unreal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Godot"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Engines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Postmortems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Social"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Marketing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Commercial"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Localization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bureaucracy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fun"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:29:21.029Z",
+    "original_repository": "FronkonGames/Awesome-Gamedev",
+    "original_repository_sha": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Gamedev",
+    "enhanced_repository_description": null,
+    "title": "Awesome Gamedev with stars"
+  }
+}
