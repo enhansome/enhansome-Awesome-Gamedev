@@ -1,7 +1,1235 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The best design tools for everything (link",
+          "description": ") Hand-Painted texture guide (link) Best practice for particle effects in 2D pixel art games (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170326929,
+            "language": "JavaScript",
+            "last_commit": "2024-07-28T19:57:31Z",
+            "owner": "goabstract",
+            "repo": "Awesome-Design-Tools",
+            "stars": 40987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photogrammetry guide (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 396518665,
+            "language": "Python",
+            "last_commit": "2025-06-27T02:10:14Z",
+            "owner": "mikeroyal",
+            "repo": "Photogrammetry-Guide",
+            "stars": 1515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A database of PBR values for real-world materials (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429147887,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T03:01:42Z",
+            "owner": "AntonPalmqvist",
+            "repo": "physically-based-api",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Art direction: Mastering Foundations (link",
+          "description": ") Easy color theory (youtube) A large collection of bitmap fonts demoscenes (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335753902,
+            "language": "HTML",
+            "last_commit": "2026-04-16T18:15:51Z",
+            "owner": "ianhan",
+            "repo": "BitmapFonts",
+            "stars": 1938
+          }
+        }
+      ],
+      "title": "Art"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome OpenGL (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37971591,
+            "language": null,
+            "last_commit": "2026-01-09T12:26:55Z",
+            "owner": "eug",
+            "repo": "awesome-opengl",
+            "stars": 2435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Modern C++ (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55082941,
+            "language": "HTML",
+            "last_commit": "2024-08-20T19:26:37Z",
+            "owner": "rigtorp",
+            "repo": "awesome-modern-cpp",
+            "stars": 13134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphics resources (link",
+          "description": ") Basic principles of 3D computer graphics (youtube) 3D basic lessons (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38935281,
+            "language": null,
+            "last_commit": "2020-12-30T21:02:56Z",
+            "owner": "mattdesl",
+            "repo": "graphics-resources",
+            "stars": 1853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Creating a MapleStory based MMORPG for learning purposes (link",
+          "description": ") Debugging memory corruption in Unity (link) Implementing a melee combo system in C++ (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56383036,
+            "language": "C",
+            "last_commit": "2016-05-12T18:31:45Z",
+            "owner": "ZenXChaos",
+            "repo": "MapleStorySDLCPP",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ for games: Performance, allocations and Data Locality (link",
+          "description": ") C# binding for Vulkan (link) Upgrading existing C# code to C# 6.0 (link)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 52173522,
+            "language": "C#",
+            "last_commit": "2017-02-18T00:35:27Z",
+            "owner": "Mervill",
+            "repo": "Tanagra",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of awesome .NET libraries, tools, frameworks and software (link",
+          "description": ") Doom 2016, a graphics study (link) Libgdx multiplatform game development (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21894635,
+            "language": null,
+            "last_commit": "2026-03-26T05:16:53Z",
+            "owner": "quozd",
+            "repo": "awesome-dotnet",
+            "stars": 21574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The math of idle games (link",
+          "description": ") Game engine using STD C++ 11 (youtube) A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub (link)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 3112748,
+            "language": null,
+            "last_commit": "2025-09-13T20:06:46Z",
+            "owner": "leereilly",
+            "repo": "games",
+            "stars": 24943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of awesome .NET core libraries, tools, frameworks and software (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54086969,
+            "language": "C#",
+            "last_commit": "2026-02-27T03:26:22Z",
+            "owner": "thangchung",
+            "repo": "awesome-dotnet-core",
+            "stars": 21368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A list of modern C++11/14/17 features (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72396492,
+            "language": null,
+            "last_commit": "2026-06-09T01:35:23Z",
+            "owner": "AnthonyCalandra",
+            "repo": "modern-cpp-features",
+            "stars": 21853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The complete guide to Unity and Git (link",
+          "description": ") C++ in Huge AAA Games (youtube) List of single-file C/C++ libraries (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70261282,
+            "language": null,
+            "last_commit": "2026-08-18T18:23:39Z",
+            "owner": "r-lyeh",
+            "repo": "single_file_libs",
+            "stars": 9983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to make Minecraft in C++ and OpenGL (youtube",
+          "description": ") Godot game engine tutorial series (link) A library for patching, replacing and decorating .NET and Mono methods during runtime (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78002587,
+            "language": "C#",
+            "last_commit": "2026-08-15T14:29:07Z",
+            "owner": "pardeike",
+            "repo": "Harmony",
+            "stars": 6626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unit Tests, how to write testable code and why it matters (link",
+          "description": ") Top 10 algorithms and data structures for competitive programming (link) Best websites a programmer should visit (link)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 83999700,
+            "language": null,
+            "last_commit": "2025-09-16T18:34:24Z",
+            "owner": "sdmg15",
+            "repo": "Best-websites-a-programmer-should-visit",
+            "stars": 76269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinyheaders, one-file C/C++ libraries with no dependencies (link",
+          "description": ") 7 ways to get better at C++ during this summer (link) How to Unit Test Unity code (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60436054,
+            "language": "C",
+            "last_commit": "2026-08-05T00:10:44Z",
+            "owner": "RandyGaul",
+            "repo": "cute_headers",
+            "stars": 5049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foliage optimization in Unity (link",
+          "description": ") Matrices, from a geometric perspective (link) A framework to translate the rules of a (turn-based) game to a series of simple functions (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111614342,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T21:25:56Z",
+            "owner": "boardgameio",
+            "repo": "boardgame.io",
+            "stars": 12412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using neural networks and machine learning to power up a 2D roguelike in Unity (link",
+          "description": ") Profiling, measurement and analysis (link) A rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118976540,
+            "language": "C++",
+            "last_commit": "2019-04-17T20:45:49Z",
+            "owner": "acdemiralp",
+            "repo": "fg",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From setup to gameplay, a introduction to C++ for Unreal Engine 4 (youtube",
+          "description": ") Game source code collection (link) A list of awesome programming talks by language (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29439879,
+            "language": "Python",
+            "last_commit": "2026-08-07T18:17:19Z",
+            "owner": "hellerve",
+            "repo": "programming-talks",
+            "stars": 7368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blender for non-artists (link",
+          "description": ") Wave Function Collapse tips and tricks (link) Netcode fundamentals for fast-paced multiplayer games (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 233140812,
+            "language": "C#",
+            "last_commit": "2020-02-22T14:24:08Z",
+            "owner": "jasonswearingen",
+            "repo": "godot-csharp-tech",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The definitive FAQ about ECS (link",
+          "description": ") Multithreading for game engines (link) Blender python addon programming (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167477098,
+            "language": null,
+            "last_commit": "2026-07-01T02:18:04Z",
+            "owner": "SanderMertens",
+            "repo": "ecs-faq",
+            "stars": 2739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D math primer for graphics and game development (link",
+          "description": ") A curated list of awesome .NET Performance books, courses, blogs, etc (link) RPCs, how to make a multiplayer game in Unity 2021.1 (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67636344,
+            "language": null,
+            "last_commit": "2026-04-27T19:50:40Z",
+            "owner": "adamsitnik",
+            "repo": "awesome-dot-net-performance",
+            "stars": 3279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game shaders for beginners (link",
+          "description": ") '3D Math Primer for Graphics and Game Development' (free book) (link) Preparing your game for deterministic netcode (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186309296,
+            "language": "C++",
+            "last_commit": "2023-06-25T21:58:57Z",
+            "owner": "lettier",
+            "repo": "3d-game-shaders-for-beginners",
+            "stars": 19853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compute shader 101 (youtube",
+          "description": ") Essential math for beginner gamedevs (youtube) Collection of resources related to Signed Distance Field (SDF) (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 387217988,
+            "language": null,
+            "last_commit": "2024-06-12T13:36:09Z",
+            "owner": "CedricGuillemet",
+            "repo": "SDF",
+            "stars": 792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Networking of a turn-based game (link",
+          "description": ") inja, a template Engine for modern C++ (link) Hacking and reverse engineering IL2CPP games with Ghidra (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100109300,
+            "language": "C++",
+            "last_commit": "2026-08-18T06:26:06Z",
+            "owner": "pantor",
+            "repo": "inja",
+            "stars": 1959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design Patterns in C++ (link",
+          "description": ") Learn C++ programming (youtube) Cheatsheet for the C++ core guidelines (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 475258196,
+            "language": null,
+            "last_commit": "2022-03-30T00:03:48Z",
+            "owner": "ufoym",
+            "repo": "cpp-core-guidelines-cheatsheet",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn C#: 37+ hours in total (youtube",
+          "description": ") Building a manageable, headless game server (link) How do Video Games Stay in Sync? An intro to the networking of Real Time games (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103825259,
+            "language": "Shell",
+            "last_commit": "2026-07-04T09:29:55Z",
+            "owner": "CubeCoders",
+            "repo": "AMP",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overview of Global Illumination in Kajiya Renderer (link",
+          "description": ") Mafia, a Serverless Multiplayer Game (link) GPU Programming for Video Games at Georgia Tech (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 351648401,
+            "language": "Rust",
+            "last_commit": "2025-07-07T21:27:20Z",
+            "owner": "EmbarkStudios",
+            "repo": "kajiya",
+            "stars": 5340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern C++ Programming Course (C++11/14/17/20) (link",
+          "description": ") Open Source Game Clones (link) Machine Learning for Game Developers (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124365799,
+            "language": "HTML",
+            "last_commit": "2026-04-19T05:38:55Z",
+            "owner": "federico-busato",
+            "repo": "Modern-CPP-Programming",
+            "stars": 16049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On light, colors, mixing paints, and numerical optimization (link",
+          "description": ") The Game Engine series (+100 videos) (youtube) The guide to Git I never had (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 762564236,
+            "language": "Python",
+            "last_commit": "2025-08-23T07:09:21Z",
+            "owner": "miciwan",
+            "repo": "PaintMixing",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn Computer Graphics Programming (link",
+          "description": ") The basics of game architecture (youtube) Game Engines with source code (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 327396855,
+            "language": null,
+            "last_commit": "2026-08-23T21:18:43Z",
+            "owner": "redorav",
+            "repo": "public_source_engines",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optick, a C++ profiler for games (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29392171,
+            "language": "C#",
+            "last_commit": "2024-05-25T15:51:48Z",
+            "owner": "bombomby",
+            "repo": "optick",
+            "stars": 3161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of Multiplayer Game Network Programming resources (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118740023,
+            "language": "C",
+            "last_commit": "2026-07-29T19:50:44Z",
+            "owner": "0xFA11",
+            "repo": "MultiplayerNetworkingResources",
+            "stars": 8656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C# asynchronous programming https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md",
+          "description": "Mountains, Cliffs, and Caves: A Comprehensive Guide to Using Perlin Noise for Procedural Generation (link) Game Math 101, Writing your Own 2D Math in C++ (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152370823,
+            "language": "C#",
+            "last_commit": "2024-05-28T16:50:09Z",
+            "owner": "davidfowl",
+            "repo": "AspNetCoreDiagnosticScenarios",
+            "stars": 8506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity CI/CD pipeline with multi-platform builds, releases, and deploys (link",
+          "description": ") Car physics for Games (link) Quaternions, Freya Holmer (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 957472567,
+            "language": "ShaderLab",
+            "last_commit": "2026-07-14T09:00:08Z",
+            "owner": "Avalin",
+            "repo": "Unity-CI-CD",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A comprehensive collection of video game tech analysis resources (link",
+          "description": ") Spatial Indexing in games (link) Everything Multiplayer, from basic network programming, to complex state management (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665169534,
+            "language": "Python",
+            "last_commit": "2026-04-19T06:42:21Z",
+            "owner": "OTFCG",
+            "repo": "Awesome-Game-Analysis",
+            "stars": 1158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPU Optimization for GameDev (link",
+          "description": ") On shaping light (link) A study path for Game Programmers (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75701562,
+            "language": "Python",
+            "last_commit": "2024-03-28T01:05:23Z",
+            "owner": "miloyip",
+            "repo": "game-programmer",
+            "stars": 18695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ideal starting point for new Unity projects (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337545056,
+            "language": "C#",
+            "last_commit": "2025-09-28T20:12:03Z",
+            "owner": "SamuelAsherRivello",
+            "repo": "unity-project-template",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Getting Started tutorial for DirectX Tool Kit (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33688704,
+            "language": "C++",
+            "last_commit": "2026-08-20T00:09:24Z",
+            "owner": "microsoft",
+            "repo": "DirectXTK",
+            "stars": 2849
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "An App launch guide (link",
+          "description": ") Developing simple and appealing games (link) Project planning for solo gamedev (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31024027,
+            "language": null,
+            "last_commit": "2021-04-11T05:00:46Z",
+            "owner": "adamwulf",
+            "repo": "app-launch-guide",
+            "stars": 4005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pro tips for managing the unmanageable project (youtube",
+          "description": ") Deploying a video game to Steam with GitLab CI (link) Jenkins for Unity with DigitalOcean (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215848720,
+            "language": "C#",
+            "last_commit": "2021-05-09T07:49:54Z",
+            "owner": "CarlHalstead",
+            "repo": "Jenkins-for-Unity-with-DigitalOcean",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to choose which game to develop? – A step-by-step guide (link",
+          "description": ") How to scale game servers using Agones, Node, and Digital Ocean (link) A curated list of resources for CTOs, with the emphasis on startups (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76679496,
+            "language": null,
+            "last_commit": "2026-03-02T12:50:21Z",
+            "owner": "kuchin",
+            "repo": "awesome-cto",
+            "stars": 35371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Creating Addressable content builds & Cloud Content Delivery releases in GitHub Actions (link",
+          "description": ") A curated list of awesome things related to GitHub Actions (link) Registering a Developer Account on Google Play and publishing our game (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153500249,
+            "language": null,
+            "last_commit": "2024-09-01T20:32:39Z",
+            "owner": "sdras",
+            "repo": "awesome-actions",
+            "stars": 28162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maintaining studio culture during rapid team growth (youtube",
+          "description": ") A self-hosted Git server with CI/CD and Kanban (link) How to stay focused while working on your startup and having a 9 to 5 (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156317154,
+            "language": "Java",
+            "last_commit": "2026-08-23T00:07:46Z",
+            "owner": "theonedev",
+            "repo": "onedev",
+            "stars": 15174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demo-driven development (link",
+          "description": ") The Startup CTO's Handbook (link) Decade of game dev studio evolution: lessons learned (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704618028,
+            "language": null,
+            "last_commit": "2025-07-30T22:03:52Z",
+            "owner": "ZachGoldberg",
+            "repo": "Startup-CTO-Handbook",
+            "stars": 14193
+          }
+        }
+      ],
+      "title": "Organization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to make realistic bullets in Unity (link",
+          "description": ") Resources for writing shaders in Unity (link) Art optimizations for Maximum Performance in Unity 5 (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42936802,
+            "language": null,
+            "last_commit": "2017-08-30T16:55:43Z",
+            "owner": "VoxelBoy",
+            "repo": "Resources-for-Writing-Shaders-in-Unity",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UpperBody IK (link",
+          "description": ") Multiplayer 2D platformer in Unity (youtube) Player movement using Unity's Animator (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208290646,
+            "language": "C#",
+            "last_commit": "2019-09-13T15:50:10Z",
+            "owner": "OBalfaqih",
+            "repo": "PlayerMovementUsingAnimator",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixel Perfect Text and UI in Unity 2021 (link",
+          "description": ") Outline effects to your Unity UI (link) IK weapon system in Unity (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 406603579,
+            "language": "ShaderLab",
+            "last_commit": "2021-09-15T06:38:44Z",
+            "owner": "PandaArcade",
+            "repo": "UIOutline",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-source kinematic character controller (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 416635803,
+            "language": "C#",
+            "last_commit": "2023-09-15T06:06:13Z",
+            "owner": "nicholas-maltbie",
+            "repo": "OpenKCC",
+            "stars": 791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boss Room, a co-op multiplayer RPG built with Unity Netcode for GameObjects (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307848141,
+            "language": "C#",
+            "last_commit": "2026-07-27T13:35:19Z",
+            "owner": "Unity-Technologies",
+            "repo": "com.unity.multiplayer.samples.coop",
+            "stars": 1973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How Scriptable Objects work and a practical example (youtube",
+          "description": ") All of Unity, in one place (link) Optimize your games in Unity to 60 FPS and above (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411068016,
+            "language": null,
+            "last_commit": "2023-07-14T20:44:53Z",
+            "owner": "mechaniac",
+            "repo": "Map-of-Unity",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimizing code by replacing Classes with Structs (link",
+          "description": ") Making multiplayer games has never been easier (youtube) A list of curated open source Unity packages (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222224026,
+            "language": null,
+            "last_commit": "2026-02-18T12:54:30Z",
+            "owner": "StefanoCecere",
+            "repo": "awesome-opensource-unity",
+            "stars": 2020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Unity Open Source on GitHub (link",
+          "description": ") Applying SOLID principles in Unity C# for robust game development (link) Addressables with loading bar in Unity server AWS (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 225324670,
+            "language": null,
+            "last_commit": "2026-02-02T09:52:39Z",
+            "owner": "baba-s",
+            "repo": "awesome-unity-open-source-on-github",
+            "stars": 4452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A set of assets for Unity to authenticate users on different platforms with OAuth 2.0 (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 800439821,
+            "language": "C#",
+            "last_commit": "2025-01-18T13:56:19Z",
+            "owner": "hippogamesunity",
+            "repo": "SimpleSignIn",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity Software Engineering Guide (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 786460774,
+            "language": "C#",
+            "last_commit": "2026-05-07T18:41:02Z",
+            "owner": "MfaXyz",
+            "repo": "Unity-Advanced-Engineering-Guide",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A troubleshooting website for Unity (link",
+          "description": ") UI Toolkit: build a stylized Main Menu from scratch (link) Set up a Jenkins server to build Unity projects (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1095533144,
+            "language": "C#",
+            "last_commit": "2026-01-23T10:17:37Z",
+            "owner": "AnhPham",
+            "repo": "Build-Unity-Projects-with-Jenkins",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple CI/CD using GitHub Actions (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1118431042,
+            "language": "ShaderLab",
+            "last_commit": "2026-06-09T17:29:36Z",
+            "owner": "Persomatey",
+            "repo": "unity-package-ci-cd-system-template",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Unity"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "An cheat sheet for Unreal Engine 4 C++ programming (link",
+          "description": ") Lighting studies in UE4 (link) FPS controller foundation using C++ (youtube)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125430834,
+            "language": "TeX",
+            "last_commit": "2020-07-29T21:10:49Z",
+            "owner": "jbtronics",
+            "repo": "UE4-CheatSheet",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ or Blueprints: pros and cons, when to use one or the other? (link",
+          "description": ") HUGE documentation about Unreal Engine and C++ (link) Unreal Engine performance guide by AMD (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630492529,
+            "language": "Markdown",
+            "last_commit": "2025-07-26T19:34:19Z",
+            "owner": "MrRobinOfficial",
+            "repo": "Guide-UnrealEngine",
+            "stars": 1426
+          }
+        }
+      ],
+      "title": "Unreal"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft's introduction to Godot for C# (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025791059,
+            "language": "C#",
+            "last_commit": "2026-01-16T01:07:18Z",
+            "owner": "microsoft",
+            "repo": "godot-csharp-essentials",
+            "stars": 341
+          }
+        }
+      ],
+      "title": "Godot"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BGFX, graphics API agnostic (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3925242,
+            "language": "C++",
+            "last_commit": "2026-08-23T04:44:44Z",
+            "owner": "bkaradzic",
+            "repo": "bgfx",
+            "stars": 17429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diligent (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44292772,
+            "language": "Batchfile",
+            "last_commit": "2026-08-16T20:18:01Z",
+            "owner": "DiligentGraphics",
+            "repo": "DiligentEngine",
+            "stars": 4410
+          }
+        }
+      ],
+      "title": "Engines"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game UI Database (link",
+          "description": ") Motion datasets collected by Bandai Namco Research Inc (link) Free icons for games (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 486160485,
+            "language": "Python",
+            "last_commit": "2023-07-04T05:40:13Z",
+            "owner": "BandaiNamcoResearchInc",
+            "repo": "Bandai-Namco-Research-Motiondataset",
+            "stars": 3324
+          }
+        }
+      ],
+      "title": "Postmortems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A list of game development resources (link",
+          "description": ") Free programming eBooks (link) NASA 3D Resources (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21958186,
+            "language": "Markdown",
+            "last_commit": "2026-08-17T17:57:40Z",
+            "owner": "ellisonleao",
+            "repo": "magictools",
+            "stars": 17191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of tools for developers who have little to no artistic talen (link",
+          "description": ") A curated library of free music for content creators (link) A collection of bitmap fonts pulled from various demo scene archives over the years (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335753902,
+            "language": "HTML",
+            "last_commit": "2026-04-16T18:15:51Z",
+            "owner": "ianhan",
+            "repo": "BitmapFonts",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free background music (Creative Commons) (youtube",
+          "description": ") A mega-list of learning resources for Game Creators (link) Indiedev startup stack (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524595482,
+            "language": null,
+            "last_commit": "2026-06-01T23:12:11Z",
+            "owner": "dawdle-deer",
+            "repo": "awesome-learn-gamedev",
+            "stars": 3525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Motion Capture for everyone (link",
+          "description": ") Set of nice spinners for imgui (link) Open source alternatives to popular software (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 507252624,
+            "language": "C++",
+            "last_commit": "2026-08-22T11:07:08Z",
+            "owner": "dalerank",
+            "repo": "imspinner",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open source icons (link",
+          "description": ") Online procedural tree generator (link) A curated collection of free and paid 3D resources (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1041237501,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T13:07:37Z",
+            "owner": "devanshutak25",
+            "repo": "3d-resources",
+            "stars": 921
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Crocotile3D, a low poly modelling tool (link",
+          "description": ") AI Game DevTools (link) LUT Maker, a free to use GPU-accelerated LUT generator in your browser (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616764080,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T09:21:18Z",
+            "owner": "Yuan-ManX",
+            "repo": "ai-game-devtools",
+            "stars": 1312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create AI generated normal, displacement and roughness maps (link",
+          "description": ") Mesh2Motion, a FREE & open-source alternative to Mixamo (link) Tenacity, an easy-to-use, cross-platform multi-track audio editor/recorder (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 310823134,
+            "language": "Python",
+            "last_commit": "2023-07-20T14:34:04Z",
+            "owner": "joeyballentine",
+            "repo": "Material-Map-Generator",
+            "stars": 317
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scalability and load testing for Valorant (link",
+          "description": ") How and where to find good quality playtesters (link) Awesome Gamedev (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41116605,
+            "language": null,
+            "last_commit": "2026-07-07T19:10:59Z",
+            "owner": "Calinou",
+            "repo": "awesome-gamedev",
+            "stars": 3109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A list of Game Development resources to make magic happen (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208998607,
+            "language": null,
+            "last_commit": "2019-09-17T08:39:05Z",
+            "owner": "skywind3000",
+            "repo": "awesome-gamedev",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Gamedev Resource Mega-List (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524595482,
+            "language": null,
+            "last_commit": "2026-06-01T23:12:11Z",
+            "owner": "dawdle-deer",
+            "repo": "awesome-learn-gamedev",
+            "stars": 3525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A mega-list of learning resources for game creators (link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524595482,
+            "language": null,
+            "last_commit": "2026-06-01T23:12:11Z",
+            "owner": "dawdle-deer",
+            "repo": "awesome-learn-gamedev",
+            "stars": 3525
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Non-Professional game development - The joy of making (youtube",
+          "description": ") Roadmap to becoming a game developer in 2017 (link) Game development: Jumpstart course (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90043697,
+            "language": "Rust",
+            "last_commit": "2025-01-31T14:57:17Z",
+            "owner": "utilForever",
+            "repo": "game-developer-roadmap",
+            "stars": 5775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game maker toolkit notebook (link",
+          "description": ") A collection of useful links (link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979689808,
+            "language": null,
+            "last_commit": "2026-06-05T01:28:29Z",
+            "owner": "TheGabmeister",
+            "repo": "resources",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Misc"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:36:31.612Z",
+    "last_updated": "2026-08-24T14:23:32.956Z",
     "original_repository": "FronkonGames/Awesome-Gamedev",
     "original_repository_id": 586687868,
     "original_repository_sha": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
