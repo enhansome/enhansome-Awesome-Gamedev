@@ -15,7 +15,7 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 40993
+            "stars": 41007
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-06-27T02:10:14Z",
             "owner": "mikeroyal",
             "repo": "Photogrammetry-Guide",
-            "stars": 1516
+            "stars": 1517
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-20T19:26:37Z",
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13133
+            "stars": 13135
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-03-26T05:16:53Z",
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21578
+            "stars": 21577
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24944
+            "stars": 24945
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-06-09T01:35:23Z",
             "owner": "AnthonyCalandra",
             "repo": "modern-cpp-features",
-            "stars": 21855
+            "stars": 21858
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-18T18:23:39Z",
             "owner": "r-lyeh",
             "repo": "single_file_libs",
-            "stars": 9984
+            "stars": 9986
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-15T14:29:07Z",
             "owner": "pardeike",
             "repo": "Harmony",
-            "stars": 6626
+            "stars": 6629
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2025-09-16T18:34:24Z",
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76266
+            "stars": 76265
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-05T00:10:44Z",
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5049
+            "stars": 5053
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-18T21:25:56Z",
             "owner": "boardgameio",
             "repo": "boardgame.io",
-            "stars": 12412
+            "stars": 12411
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-18T06:26:06Z",
             "owner": "pantor",
             "repo": "inja",
-            "stars": 1960
+            "stars": 1962
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2022-03-30T00:03:48Z",
             "owner": "ufoym",
             "repo": "cpp-core-guidelines-cheatsheet",
-            "stars": 569
+            "stars": 570
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-07-04T09:29:55Z",
             "owner": "CubeCoders",
             "repo": "AMP",
-            "stars": 245
+            "stars": 246
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-04-19T05:38:55Z",
             "owner": "federico-busato",
             "repo": "Modern-CPP-Programming",
-            "stars": 16055
+            "stars": 16057
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2026-08-23T21:18:43Z",
             "owner": "redorav",
             "repo": "public_source_engines",
-            "stars": 763
+            "stars": 765
           }
         },
         {
@@ -513,10 +513,10 @@
             "archived": false,
             "id": 118740023,
             "language": "C",
-            "last_commit": "2026-07-29T19:50:44Z",
+            "last_commit": "2026-08-27T10:58:50Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8666
+            "stars": 8668
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2024-05-28T16:50:09Z",
             "owner": "davidfowl",
             "repo": "AspNetCoreDiagnosticScenarios",
-            "stars": 8506
+            "stars": 8505
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-04-19T06:42:21Z",
             "owner": "OTFCG",
             "repo": "Awesome-Game-Analysis",
-            "stars": 1159
+            "stars": 1160
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2025-09-28T20:12:03Z",
             "owner": "SamuelAsherRivello",
             "repo": "unity-project-template",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-08-20T00:09:24Z",
             "owner": "microsoft",
             "repo": "DirectXTK",
-            "stars": 2849
+            "stars": 2851
           }
         }
       ],
@@ -657,7 +657,7 @@
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35370
+            "stars": 35375
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28162
+            "stars": 28163
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2026-08-25T12:32:38Z",
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15178
+            "stars": 15188
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2025-07-30T22:03:52Z",
             "owner": "ZachGoldberg",
             "repo": "Startup-CTO-Handbook",
-            "stars": 14194
+            "stars": 14196
           }
         }
       ],
@@ -753,7 +753,7 @@
             "last_commit": "2021-09-15T06:38:44Z",
             "owner": "PandaArcade",
             "repo": "UIOutline",
-            "stars": 612
+            "stars": 613
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2023-09-15T06:06:13Z",
             "owner": "nicholas-maltbie",
             "repo": "OpenKCC",
-            "stars": 791
+            "stars": 793
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2026-02-02T09:52:39Z",
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4454
+            "stars": 4456
           }
         },
         {
@@ -924,7 +924,7 @@
             "last_commit": "2025-07-26T19:34:19Z",
             "owner": "MrRobinOfficial",
             "repo": "Guide-UnrealEngine",
-            "stars": 1427
+            "stars": 1429
           }
         }
       ],
@@ -945,7 +945,7 @@
             "last_commit": "2026-01-16T01:07:18Z",
             "owner": "microsoft",
             "repo": "godot-csharp-essentials",
-            "stars": 341
+            "stars": 342
           }
         }
       ],
@@ -963,10 +963,10 @@
             "archived": false,
             "id": 3925242,
             "language": "C++",
-            "last_commit": "2026-08-26T01:36:44Z",
+            "last_commit": "2026-08-26T06:40:47Z",
             "owner": "bkaradzic",
             "repo": "bgfx",
-            "stars": 17432
+            "stars": 17433
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2026-08-16T20:18:01Z",
             "owner": "DiligentGraphics",
             "repo": "DiligentEngine",
-            "stars": 4414
+            "stars": 4416
           }
         }
       ],
@@ -1002,7 +1002,7 @@
             "last_commit": "2023-07-04T05:40:13Z",
             "owner": "BandaiNamcoResearchInc",
             "repo": "Bandai-Namco-Research-Motiondataset",
-            "stars": 3323
+            "stars": 3328
           }
         }
       ],
@@ -1023,7 +1023,7 @@
             "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17195
+            "stars": 17204
           }
         },
         {
@@ -1053,7 +1053,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3528
+            "stars": 3529
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-08-21T13:07:37Z",
             "owner": "devanshutak25",
             "repo": "3d-resources",
-            "stars": 924
+            "stars": 926
           }
         }
       ],
@@ -1104,7 +1104,7 @@
             "last_commit": "2026-07-21T09:21:18Z",
             "owner": "Yuan-ManX",
             "repo": "ai-game-devtools",
-            "stars": 1316
+            "stars": 1318
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3111
+            "stars": 3114
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3528
+            "stars": 3529
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3528
+            "stars": 3529
           }
         }
       ],
@@ -1206,7 +1206,7 @@
             "last_commit": "2025-01-31T14:57:17Z",
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5776
+            "stars": 5779
           }
         },
         {
@@ -1229,9 +1229,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:38:27.613Z",
-    "original_repository": "FronkonGames/Awesome-Gamedev",
-    "original_repository_id": 586687868,
+    "last_updated": "2026-08-27T11:09:51.207Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 586687868,
+      "language": null,
+      "last_commit": "2026-06-18T19:55:41Z",
+      "owner": "FronkonGames",
+      "repo": "Awesome-Gamedev",
+      "stars": 649
+    },
     "original_repository_sha": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Gamedev",
     "enhanced_repository_description": null,
