@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best design tools and plugins for everything 👉",
+            "homepage": null,
             "id": 170326929,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
+            "open_issues": 193,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41017
+            "stars": 41019,
+            "topics": [
+              "animations",
+              "awesome",
+              "awesome-list",
+              "design",
+              "design-systems",
+              "design-tools",
+              "font-awesome",
+              "ui-design"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -26,12 +40,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management,  and Medical.",
+            "homepage": null,
             "id": 396518665,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-27T02:10:14Z",
+            "open_issues": 2,
             "owner": "mikeroyal",
             "repo": "Photogrammetry-Guide",
-            "stars": 1518
+            "stars": 1519,
+            "topics": [
+              "3d-reconstruction",
+              "camera",
+              "cesium",
+              "drones",
+              "geometry",
+              "geospatial",
+              "gis",
+              "image-processing",
+              "lidar",
+              "map",
+              "multiview-stereo",
+              "photogrammetry",
+              "point-cloud",
+              "pointcloud",
+              "rendering",
+              "sfm",
+              "slam",
+              "spatial-data",
+              "structure-from-motion",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -42,12 +82,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A database of physically based values for CG artists.",
+            "homepage": "https://api.physicallybased.info/",
             "id": 429147887,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-03T03:01:42Z",
+            "open_issues": 6,
             "owner": "AntonPalmqvist",
             "repo": "physically-based-api",
-            "stars": 475
+            "stars": 475,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "computer-graphics",
+              "gamedev",
+              "materialx",
+              "openpbr",
+              "pbr",
+              "physically-based-rendering",
+              "real-time-rendering",
+              "rendering",
+              "unreal-engine",
+              "usd",
+              "vfx"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -58,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My collection of bitmap fonts pulled from various demoscene archives over the years",
+            "homepage": null,
             "id": 335753902,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-04-16T18:15:51Z",
+            "open_issues": 3,
             "owner": "ianhan",
             "repo": "BitmapFonts",
-            "stars": 1939
+            "stars": 1939,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -80,12 +144,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
+            "homepage": null,
             "id": 37971591,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-09T12:26:55Z",
+            "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2437
+            "stars": 2437,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "game-development",
+              "glsl-editors",
+              "graphics-pipeline",
+              "lists",
+              "opengl",
+              "opengl-library",
+              "opengl-tutorial",
+              "video-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -96,12 +177,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources on modern C++",
+            "homepage": "http://awesomecpp.com",
             "id": 55082941,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-08-20T19:26:37Z",
+            "open_issues": 20,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13136
+            "stars": 13137,
+            "topics": [
+              "cpp",
+              "cpp11",
+              "cpp14",
+              "cpp17",
+              "cpp1z",
+              "cpp20"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -112,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: a list of graphic programming resources",
+            "homepage": null,
             "id": 38935281,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-30T21:02:56Z",
+            "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1853
+            "stars": 1854,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -128,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D Game created in C++ SDL and OpenGL",
+            "homepage": null,
             "id": 56383036,
             "language": "C",
+            "license": null,
             "last_commit": "2016-05-12T18:31:45Z",
+            "open_issues": 0,
             "owner": "ZenXChaos",
             "repo": "MapleStorySDLCPP",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -144,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "C# binding generator for Vulkan (Working Example!)",
+            "homepage": null,
             "id": 52173522,
             "language": "C#",
+            "license": "BSL-1.0",
             "last_commit": "2017-02-18T00:35:27Z",
+            "open_issues": 7,
             "owner": "Mervill",
             "repo": "Tanagra",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -160,12 +268,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome .NET libraries, tools, frameworks and software",
+            "homepage": null,
             "id": 21894635,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-26T05:16:53Z",
+            "open_issues": 144,
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21578
+            "stars": 21579,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "clr",
+              "csharp",
+              "dotnet",
+              "fsharp"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -176,12 +296,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+            "homepage": null,
             "id": 3112748,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-13T20:06:46Z",
+            "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24943
+            "stars": 24943,
+            "topics": [
+              "game",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "games",
+              "html5-games"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -192,12 +324,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",
+            "homepage": null,
             "id": 54086969,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-02-27T03:26:22Z",
+            "open_issues": 212,
             "owner": "thangchung",
             "repo": "awesome-dotnet-core",
-            "stars": 21371
+            "stars": 21371,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "csharp",
+              "dotnet-core",
+              "list",
+              "microsoft"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -208,12 +352,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cheatsheet of modern C++ language and library features.",
+            "homepage": null,
             "id": 72396492,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-09T01:35:23Z",
+            "open_issues": 4,
             "owner": "AnthonyCalandra",
             "repo": "modern-cpp-features",
-            "stars": 21860
+            "stars": 21860,
+            "topics": [
+              "cpp",
+              "cpp11",
+              "cpp14",
+              "cpp17",
+              "cpp20",
+              "cpp23"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -224,12 +380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of single-file C/C++ libraries, with emphasis on clause-less licenses.",
+            "homepage": null,
             "id": 70261282,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-18T18:23:39Z",
+            "open_issues": 7,
             "owner": "r-lyeh",
             "repo": "single_file_libs",
-            "stars": 9987
+            "stars": 9988,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -240,12 +401,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for patching, replacing and decorating .NET and Mono methods during runtime",
+            "homepage": "https://www.patreon.com/pardeike",
             "id": 78002587,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-15T14:29:07Z",
+            "open_issues": 4,
             "owner": "pardeike",
             "repo": "Harmony",
-            "stars": 6631
+            "stars": 6631,
+            "topics": [
+              "cil",
+              "csharp",
+              "detour",
+              "detours",
+              "dotnet",
+              "monkey-patching",
+              "mono",
+              "non-destructive",
+              "patcher",
+              "runtime",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -256,12 +434,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":link: Some useful websites for programmers.",
+            "homepage": null,
             "id": 83999700,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-16T18:34:24Z",
+            "open_issues": 1002,
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76268
+            "stars": 76268,
+            "topics": [
+              "books",
+              "cs",
+              "hacktoberfest",
+              "links",
+              "programmer",
+              "sites"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -272,12 +462,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games",
+            "homepage": null,
             "id": 60436054,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T00:10:44Z",
+            "open_issues": 25,
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5055
+            "stars": 5055,
+            "topics": [
+              "audio",
+              "c",
+              "collision",
+              "collision-detection",
+              "compression",
+              "cross-platform",
+              "game",
+              "header",
+              "library",
+              "math",
+              "opengl",
+              "png"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -288,12 +496,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State Management and Multiplayer Networking for Turn-Based Games",
+            "homepage": "https://boardgame.io",
             "id": 111614342,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T21:25:56Z",
+            "open_issues": 66,
             "owner": "boardgameio",
             "repo": "boardgame.io",
-            "stars": 12414
+            "stars": 12413,
+            "topics": [
+              "boardgames",
+              "game-engine",
+              "javascript",
+              "multiplayer",
+              "react",
+              "react-native",
+              "tabletop",
+              "turn-based"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -304,12 +526,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources.",
+            "homepage": null,
             "id": 118976540,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-04-17T20:45:49Z",
+            "open_issues": 1,
             "owner": "acdemiralp",
             "repo": "fg",
-            "stars": 569
+            "stars": 569,
+            "topics": [
+              "abstraction",
+              "cpp17",
+              "frame",
+              "graph",
+              "rendering"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -320,12 +553,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome & interesting talks about programming",
+            "homepage": null,
             "id": 29439879,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-07T18:17:19Z",
+            "open_issues": 2,
             "owner": "hellerve",
             "repo": "programming-talks",
-            "stars": 7368
+            "stars": 7368,
+            "topics": [
+              "list",
+              "programming-talks",
+              "talks"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -336,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Awesome C# performance with Godot\"'s future home.... hopefully.",
+            "homepage": null,
             "id": 233140812,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-02-22T14:24:08Z",
+            "open_issues": 7,
             "owner": "jasonswearingen",
             "repo": "godot-csharp-tech",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -352,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frequently asked questions about Entity Component Systems",
+            "homepage": null,
             "id": 167477098,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-01T02:18:04Z",
+            "open_issues": 2,
             "owner": "SanderMertens",
             "repo": "ecs-faq",
-            "stars": 2741
+            "stars": 2741,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -368,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.",
+            "homepage": null,
             "id": 67636344,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-27T19:50:40Z",
+            "open_issues": 7,
             "owner": "adamsitnik",
             "repo": "awesome-dot-net-performance",
-            "stars": 3279
+            "stars": 3279,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -384,12 +641,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+            "homepage": "https://lettier.github.io/3d-game-shaders-for-beginners/index.html",
             "id": 186309296,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-06-25T21:58:57Z",
+            "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19857
+            "stars": 19859,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "game-development",
+              "gamedev",
+              "glsl",
+              "glsl-shader",
+              "glsl-shaders",
+              "godot",
+              "graphics",
+              "graphics-programming",
+              "hlsl",
+              "indiedev",
+              "opengl",
+              "panda3d",
+              "shader",
+              "shaders",
+              "unity",
+              "unity3d",
+              "vulkan",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -400,12 +683,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of resources (papers, links, discussions, shadertoys,...) related to Signed Distance Field",
+            "homepage": null,
             "id": 387217988,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-12T13:36:09Z",
+            "open_issues": 2,
             "owner": "CedricGuillemet",
             "repo": "SDF",
-            "stars": 792
+            "stars": 792,
+            "topics": [
+              "demoscene",
+              "games",
+              "sdf",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -416,12 +709,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Template Engine for Modern C++",
+            "homepage": "https://pantor.github.io/inja/",
             "id": 100109300,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-18T06:26:06Z",
+            "open_issues": 55,
             "owner": "pantor",
             "repo": "inja",
-            "stars": 1963
+            "stars": 1964,
+            "topics": [
+              "header-only",
+              "inja",
+              "jinja",
+              "json",
+              "string-template",
+              "template",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -432,12 +738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheatsheet for the C++ core guidelines, including a set of tried-and-true guidelines, rules, and best practices about coding in C++.",
+            "homepage": null,
             "id": 475258196,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-03-30T00:03:48Z",
+            "open_issues": 2,
             "owner": "ufoym",
             "repo": "cpp-core-guidelines-cheatsheet",
-            "stars": 570
+            "stars": 570,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -448,12 +759,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Issue tracking and documentation for AMP",
+            "homepage": "https://cubecoders.com/AMP",
             "id": 103825259,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-04T09:29:55Z",
+            "open_issues": 283,
             "owner": "CubeCoders",
             "repo": "AMP",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "csgo-server",
+              "minecraft",
+              "tf2",
+              "webinterface"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -464,12 +785,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "💡 Experimental real-time global illumination renderer 🦀",
+            "homepage": null,
             "id": 351648401,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-07T21:27:20Z",
+            "open_issues": 22,
             "owner": "EmbarkStudios",
             "repo": "kajiya",
-            "stars": 5339
+            "stars": 5339,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -480,12 +806,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern C++ Programming Course (C++03/11/14/17/20/23/26)",
+            "homepage": "https://federico-busato.github.io/Modern-CPP-Programming/",
             "id": 124365799,
             "language": "HTML",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-04-19T05:38:55Z",
+            "open_issues": 5,
             "owner": "federico-busato",
             "repo": "Modern-CPP-Programming",
-            "stars": 16064
+            "stars": 16066,
+            "topics": [
+              "c-plus-plus",
+              "code-quality",
+              "compilers",
+              "course",
+              "courses",
+              "cpp",
+              "cpp-programming",
+              "cpp03",
+              "cpp11",
+              "cpp14",
+              "cpp17",
+              "cpp20",
+              "cpp23",
+              "cpp26",
+              "debugging",
+              "optimization",
+              "programming",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -496,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 762564236,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-23T07:09:21Z",
+            "open_issues": 1,
             "owner": "miciwan",
             "repo": "PaintMixing",
-            "stars": 400
+            "stars": 400,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -512,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game Engines with Source: Learning from the best",
+            "homepage": null,
             "id": 327396855,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-23T21:18:43Z",
+            "open_issues": 2,
             "owner": "redorav",
             "repo": "public_source_engines",
-            "stars": 769
+            "stars": 769,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -528,12 +888,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Profiler For Games",
+            "homepage": "https://optick.dev",
             "id": 29392171,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-05-25T15:51:48Z",
+            "open_issues": 85,
             "owner": "bombomby",
             "repo": "optick",
-            "stars": 3161
+            "stars": 3161,
+            "topics": [
+              "c-plus-plus",
+              "games",
+              "performance",
+              "profiler"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -544,12 +914,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Multiplayer Game Network Programming Resources",
+            "homepage": "https://multiplayernetworking.com/",
             "id": 118740023,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-27T10:58:50Z",
+            "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8670
+            "stars": 8671,
+            "topics": [
+              "cpp",
+              "csharp",
+              "game",
+              "game-development",
+              "game-networking",
+              "game-programming",
+              "gamedev",
+              "godot",
+              "godot-engine",
+              "godotengine",
+              "multiplayer",
+              "netcode",
+              "network",
+              "network-programming",
+              "networking",
+              "unity",
+              "unity3d",
+              "unreal-engine",
+              "unreal-engine-4",
+              "unreal-engine-5"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -560,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository has examples of broken patterns in ASP.NET Core applications",
+            "homepage": null,
             "id": 152370823,
             "language": "C#",
+            "license": null,
             "last_commit": "2024-05-28T16:50:09Z",
+            "open_issues": 27,
             "owner": "davidfowl",
             "repo": "AspNetCoreDiagnosticScenarios",
-            "stars": 8504
+            "stars": 8504,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -576,12 +977,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unity CI/CD pipeline with multi-platform builds, releases, and deploys",
+            "homepage": "https://avalin.dk/Unity-CI-CD/",
             "id": 957472567,
             "language": "ShaderLab",
+            "license": "MIT",
             "last_commit": "2026-07-14T09:00:08Z",
+            "open_issues": 1,
             "owner": "Avalin",
             "repo": "Unity-CI-CD",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "build-pipelines",
+              "ci-cd",
+              "cicd",
+              "deployment",
+              "deployments",
+              "game-dev",
+              "game-development",
+              "github-actions",
+              "unity",
+              "unity2d",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -592,12 +1010,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a comprehensive collection of video game tech analysis resources",
+            "homepage": null,
             "id": 665169534,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-04-19T06:42:21Z",
+            "open_issues": 0,
             "owner": "OTFCG",
             "repo": "Awesome-Game-Analysis",
-            "stars": 1160
+            "stars": 1160,
+            "topics": [
+              "anything",
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "effects",
+              "game",
+              "game-dev",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "gameplay",
+              "games",
+              "graphics",
+              "unity",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -608,12 +1047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Study Path for Game Programmer",
+            "homepage": null,
             "id": 75701562,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-28T01:05:23Z",
+            "open_issues": 31,
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18695
+            "stars": 18694,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -624,12 +1068,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ideal starting point for new Unity Projects. It includes best practices for project structure and C# coding standards. This is for traditional GameObject OOP projects, not for DOTS projects.",
+            "homepage": "http://SamuelAsherRivello.com",
             "id": 337545056,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-09-28T20:12:03Z",
+            "open_issues": 4,
             "owner": "SamuelAsherRivello",
             "repo": "unity-project-template",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "best-practices",
+              "coding-standards",
+              "design-patterns",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -640,12 +1095,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++",
+            "homepage": "https://walbourn.github.io/directxtk/",
             "id": 33688704,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-20T00:09:24Z",
+            "open_issues": 33,
             "owner": "microsoft",
             "repo": "DirectXTK",
-            "stars": 2852
+            "stars": 2852,
+            "topics": [
+              "cpp-library",
+              "desktop",
+              "directx",
+              "directx-11",
+              "directxtk",
+              "graphics",
+              "microsoft",
+              "uwp",
+              "xbox"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -662,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch. More info at:",
+            "homepage": "http://www.applaunchguide.com",
             "id": 31024027,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2021-04-11T05:00:46Z",
+            "open_issues": 10,
             "owner": "adamwulf",
             "repo": "app-launch-guide",
-            "stars": 4004
+            "stars": 4004,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -678,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jenkins integration with Unity using a DigitalOcean Droplet",
+            "homepage": null,
             "id": 215848720,
             "language": "C#",
+            "license": "Unlicense",
             "last_commit": "2021-05-09T07:49:54Z",
+            "open_issues": 0,
             "owner": "CarlHalstead",
             "repo": "Jenkins-for-Unity-with-DigitalOcean",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -694,12 +1174,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+            "homepage": null,
             "id": 76679496,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-02T12:50:21Z",
+            "open_issues": 4,
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35383
+            "stars": 35383,
+            "topics": [
+              "architecture",
+              "awesome",
+              "awesome-list",
+              "cto",
+              "decision-making",
+              "engineering-management",
+              "hiring",
+              "interviewing",
+              "leadership",
+              "management",
+              "principles",
+              "roadmap",
+              "software-engineering",
+              "startups"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -710,12 +1210,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome actions to use on GitHub",
+            "homepage": null,
             "id": 153500249,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
+            "open_issues": 278,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28168
+            "stars": 28169,
+            "topics": [
+              "actions",
+              "actions-list",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "curated-list",
+              "github",
+              "github-actions"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -726,12 +1240,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Unified and Autonomous Development Platform",
+            "homepage": "https://onedev.io",
             "id": 156317154,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:34:32Z",
+            "open_issues": 0,
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15192
+            "stars": 15196,
+            "topics": [
+              "ai",
+              "ci-cd",
+              "devops",
+              "git",
+              "kanban",
+              "packages",
+              "self-hosted",
+              "workspaces"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -742,12 +1270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams",
+            "homepage": "https://ctohb.com",
             "id": 704618028,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-07-30T22:03:52Z",
+            "open_issues": 9,
             "owner": "ZachGoldberg",
             "repo": "Startup-CTO-Handbook",
-            "stars": 14198
+            "stars": 14198,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -764,12 +1297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!",
+            "homepage": null,
             "id": 42936802,
             "language": null,
+            "license": null,
             "last_commit": "2017-08-30T16:55:43Z",
+            "open_issues": 0,
             "owner": "VoxelBoy",
             "repo": "Resources-for-Writing-Shaders-in-Unity",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -780,12 +1318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 208290646,
             "language": "C#",
+            "license": null,
             "last_commit": "2019-09-13T15:50:10Z",
+            "open_issues": 0,
             "owner": "OBalfaqih",
             "repo": "PlayerMovementUsingAnimator",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -796,12 +1339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 406603579,
             "language": "ShaderLab",
+            "license": "Unlicense",
             "last_commit": "2021-09-15T06:38:44Z",
+            "open_issues": 5,
             "owner": "PandaArcade",
             "repo": "UIOutline",
-            "stars": 613
+            "stars": 613,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -812,12 +1360,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Kinematic Character Controller for Unity",
+            "homepage": "http://nickmaltbie.com/OpenKCC/",
             "id": 416635803,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-09-15T06:06:13Z",
+            "open_issues": 14,
             "owner": "nicholas-maltbie",
             "repo": "OpenKCC",
-            "stars": 793
+            "stars": 793,
+            "topics": [
+              "character-cotnroller",
+              "game-development",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -828,12 +1385,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.",
+            "homepage": "https://docs-multiplayer.unity3d.com/",
             "id": 307848141,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T13:35:19Z",
+            "open_issues": 7,
             "owner": "Unity-Technologies",
             "repo": "com.unity.multiplayer.samples.coop",
-            "stars": 1976
+            "stars": 1976,
+            "topics": [
+              "gamedev",
+              "mlapi",
+              "multiplayer",
+              "multiplayergames",
+              "networking",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -844,12 +1414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "all of Unity, in one place",
+            "homepage": null,
             "id": 411068016,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-14T20:44:53Z",
+            "open_issues": 1,
             "owner": "mechaniac",
             "repo": "Map-of-Unity",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -860,12 +1435,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a list of curated opensource Unity packages for future proof Game Developers",
+            "homepage": null,
             "id": 222224026,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-02-18T12:54:30Z",
+            "open_issues": 9,
             "owner": "StefanoCecere",
             "repo": "awesome-opensource-unity",
-            "stars": 2030
+            "stars": 2081,
+            "topics": [
+              "assets",
+              "awesome",
+              "awesome-list",
+              "creative-commons",
+              "game",
+              "game-development",
+              "gamedev",
+              "opensource",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -876,12 +1467,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
+            "homepage": null,
             "id": 225324670,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-02-02T09:52:39Z",
+            "open_issues": 14,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4457
+            "stars": 4462,
+            "topics": [
+              "awesome-list",
+              "unity",
+              "unity-asset",
+              "unity-assets",
+              "unity-editor",
+              "unity-extension",
+              "unity-mobile",
+              "unity-native",
+              "unity-plugin",
+              "unity-sample",
+              "unity-script",
+              "unity-scripts",
+              "unity-shader",
+              "unity-ui",
+              "unity3d",
+              "unity3d-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -892,12 +1505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of assets for Unity to authenticate users on different platforms with OAuth 2.0",
+            "homepage": null,
             "id": 800439821,
             "language": "C#",
+            "license": null,
             "last_commit": "2025-01-18T13:56:19Z",
+            "open_issues": 13,
             "owner": "hippogamesunity",
             "repo": "SimpleSignIn",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -908,12 +1526,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unity Software Engineering Guide (Design Patterns, Software Architecture, Algorithms and Data Structure)",
+            "homepage": null,
             "id": 786460774,
             "language": "C#",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-07T18:41:02Z",
+            "open_issues": 0,
             "owner": "MfaXyz",
             "repo": "Unity-Advanced-Engineering-Guide",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "architecture",
+              "design-pattern",
+              "design-patterns",
+              "design-system",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "software-architecture",
+              "software-design",
+              "software-development",
+              "software-engineer",
+              "software-engineering",
+              "software-testing",
+              "unity",
+              "unity-editor",
+              "unity-package",
+              "unity-scripts",
+              "unity2d",
+              "unity3d",
+              "unity3d-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -924,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple instructions to help you set up a Jenkins server to build Unity projects quickly and conveniently",
+            "homepage": null,
             "id": 1095533144,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-01-23T10:17:37Z",
+            "open_issues": 0,
             "owner": "AnhPham",
             "repo": "Build-Unity-Projects-with-Jenkins",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -940,12 +1589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple free template CI/CD system for Unity packages using GitHub Actions. ",
+            "homepage": null,
             "id": 1118431042,
             "language": "ShaderLab",
+            "license": "MIT",
             "last_commit": "2026-06-09T17:29:36Z",
+            "open_issues": 0,
             "owner": "Persomatey",
             "repo": "unity-package-ci-cd-system-template",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -962,12 +1616,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Cheat Sheet for Unreal Engine 4 C++ programming, licensed under CC BY-NC-SA 4.0",
+            "homepage": null,
             "id": 125430834,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-29T21:10:49Z",
+            "open_issues": 1,
             "owner": "jbtronics",
             "repo": "UE4-CheatSheet",
-            "stars": 453
+            "stars": 453,
+            "topics": [
+              "cheatsheet",
+              "cpp",
+              "latex-document",
+              "ue4",
+              "unreal",
+              "unreal-engine-4"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -978,12 +1644,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is designed to help developers learn how to get started with Unreal Engine and C++.",
+            "homepage": null,
             "id": 630492529,
             "language": "Markdown",
+            "license": null,
             "last_commit": "2025-07-26T19:34:19Z",
+            "open_issues": 3,
             "owner": "MrRobinOfficial",
             "repo": "Guide-UnrealEngine",
-            "stars": 1429
+            "stars": 1429,
+            "topics": [
+              "cpp",
+              "docs",
+              "documentation",
+              "examples",
+              "guide",
+              "learn",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -1000,12 +1679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository hosts course material designed for C# developers who want to learn game development using the Godot Engine.",
+            "homepage": null,
             "id": 1025791059,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-01-16T01:07:18Z",
+            "open_issues": 1,
             "owner": "microsoft",
             "repo": "godot-csharp-essentials",
-            "stars": 342
+            "stars": 342,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -1022,12 +1706,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+            "homepage": "https://bkaradzic.github.io/bgfx/overview.html",
             "id": 3925242,
             "language": "C++",
-            "last_commit": "2026-08-27T19:27:49Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-28T23:37:16Z",
+            "open_issues": 285,
             "owner": "bkaradzic",
             "repo": "bgfx",
-            "stars": 17438
+            "stars": 17440,
+            "topics": [
+              "d3d11",
+              "d3d12",
+              "directx",
+              "directx-11",
+              "directx-12",
+              "engine",
+              "gamedev",
+              "gles",
+              "glfw",
+              "graphics",
+              "metal",
+              "opengl",
+              "rendering",
+              "sdl",
+              "vulkan",
+              "vulkan-api",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1038,12 +1745,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern cross-platform low-level graphics library and rendering framework",
+            "homepage": "http://diligentgraphics.com/diligent-engine/",
             "id": 44292772,
             "language": "Batchfile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T20:18:01Z",
+            "open_issues": 24,
             "owner": "DiligentGraphics",
             "repo": "DiligentEngine",
-            "stars": 4417
+            "stars": 4417,
+            "topics": [
+              "3d-engine",
+              "d3d11",
+              "d3d12",
+              "directx",
+              "directx11",
+              "directx12",
+              "gamedev",
+              "graphics-engine",
+              "graphics-library",
+              "graphics-programming",
+              "ibl",
+              "opengl",
+              "opengl-es",
+              "pbr",
+              "ray-tracing",
+              "raytracing",
+              "renderer",
+              "rendering",
+              "vulkan",
+              "vulkan-game-engine"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -1060,12 +1793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository provides motion datasets collected by Bandai Namco Research Inc",
+            "homepage": null,
             "id": 486160485,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-04T05:40:13Z",
+            "open_issues": 10,
             "owner": "BandaiNamcoResearchInc",
             "repo": "Bandai-Namco-Research-Motiondataset",
-            "stars": 3328
+            "stars": 3328,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -1082,12 +1820,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+            "homepage": null,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-25T12:55:42Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:32Z",
+            "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17209
+            "stars": 17212,
+            "topics": [
+              "art",
+              "awesome",
+              "awesome-list",
+              "board-games",
+              "curated",
+              "design",
+              "frameworks",
+              "game-design",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "gamedev",
+              "games",
+              "hacktoberfest",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1098,12 +1858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My collection of bitmap fonts pulled from various demoscene archives over the years",
+            "homepage": null,
             "id": 335753902,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-04-16T18:15:51Z",
+            "open_issues": 3,
             "owner": "ianhan",
             "repo": "BitmapFonts",
-            "stars": 1939
+            "stars": 1939,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1114,12 +1879,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of game development learning resources",
+            "homepage": null,
             "id": 524595482,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-01T23:12:11Z",
+            "open_issues": 3,
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3532
+            "stars": 3532,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "education",
+              "game-development",
+              "gamedev",
+              "learn",
+              "learning",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1130,12 +1909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of nice spinners for imgui",
+            "homepage": null,
             "id": 507252624,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-22T11:07:08Z",
+            "open_issues": 0,
             "owner": "dalerank",
             "repo": "imspinner",
-            "stars": 593
+            "stars": 593,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1146,12 +1930,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated, CC0 reference hub for 3D, VFX, and game dev. 3,400+ tools, assets, and tutorials across 12 sections. Searchable, filterable, free.",
+            "homepage": "https://3d.devanshutak.xyz/",
             "id": 1041237501,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T13:07:37Z",
+            "open_issues": 1,
             "owner": "devanshutak25",
             "repo": "3d-resources",
-            "stars": 927
+            "stars": 927,
+            "topics": [
+              "3d",
+              "3d-resources",
+              "animation",
+              "awesome",
+              "awesome-list",
+              "blender",
+              "cgi",
+              "cinema-4d",
+              "free-assets",
+              "gamedev",
+              "houdini",
+              "maya",
+              "unreal-engine",
+              "vfx"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -1168,12 +1972,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥",
+            "homepage": "https://yuan-manx.github.io/ai-game-devtools/",
             "id": 616764080,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T09:21:18Z",
+            "open_issues": 12,
             "owner": "Yuan-ManX",
             "repo": "ai-game-devtools",
-            "stars": 1320
+            "stars": 1320,
+            "topics": [
+              "ai-agents",
+              "ai-game-development",
+              "ai-game-engine",
+              "ai-platform",
+              "ai-toolkit",
+              "aigc",
+              "artificial-intelligence",
+              "awesome-list",
+              "deep-learning",
+              "game-ai",
+              "game-development",
+              "game-engine",
+              "mechine-learing",
+              "unity",
+              "world-models"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1184,12 +2009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily create AI generated Normal maps, Displacement maps, and Roughness maps.",
+            "homepage": null,
             "id": 310823134,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-20T14:34:04Z",
+            "open_issues": 5,
             "owner": "joeyballentine",
             "repo": "Material-Map-Generator",
-            "stars": 317
+            "stars": 317,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -1206,12 +2036,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
+            "homepage": "https://notabug.org/Calinou/awesome-gamedev",
             "id": 41116605,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
+            "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3115
+            "stars": 3116,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "game",
+              "game-development",
+              "game-programming"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1222,12 +2063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: A list of Game Development resources to make magic happen.",
+            "homepage": "https://game-development.zeef.com/",
             "id": 208998607,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2019-09-17T08:39:05Z",
+            "open_issues": 3,
             "owner": "skywind3000",
             "repo": "awesome-gamedev",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1238,12 +2084,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of game development learning resources",
+            "homepage": null,
             "id": 524595482,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-01T23:12:11Z",
+            "open_issues": 3,
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3532
+            "stars": 3532,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "education",
+              "game-development",
+              "gamedev",
+              "learn",
+              "learning",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1254,12 +2114,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of game development learning resources",
+            "homepage": null,
             "id": 524595482,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-01T23:12:11Z",
+            "open_issues": 3,
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3532
+            "stars": 3532,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "education",
+              "game-development",
+              "gamedev",
+              "learn",
+              "learning",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -1276,12 +2150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a game developer in 2022",
+            "homepage": null,
             "id": 90043697,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-01-31T14:57:17Z",
+            "open_issues": 3,
             "owner": "utilForever",
             "repo": "game-developer-roadmap",
-            "stars": 5778
+            "stars": 5778,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         },
@@ -1292,12 +2171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources",
+            "homepage": null,
             "id": 979689808,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-05T01:28:29Z",
+            "open_issues": 0,
             "owner": "TheGabmeister",
             "repo": "resources",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
         }
@@ -1306,15 +2190,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:42:55.676Z",
+    "last_updated": "2026-08-29T04:40:06.451Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of resources to game development.",
+      "homepage": "https://fronkongames.github.io/",
       "id": 586687868,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-18T19:55:41Z",
+      "open_issues": 6,
       "owner": "FronkonGames",
       "repo": "Awesome-Gamedev",
-      "stars": 650
+      "stars": 650,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-development",
+        "gameart",
+        "gameaudio",
+        "gamedev",
+        "gamedevelopment",
+        "indiedev",
+        "unity",
+        "unity3d",
+        "unreal-engine"
+      ]
     },
     "original_repository_sha": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Gamedev",
