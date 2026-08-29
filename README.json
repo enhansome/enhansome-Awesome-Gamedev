@@ -19,7 +19,7 @@
             "open_issues": 193,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41019,
+            "stars": 41018,
             "topics": [
               "animations",
               "awesome",
@@ -333,7 +333,7 @@
             "open_issues": 212,
             "owner": "thangchung",
             "repo": "awesome-dotnet-core",
-            "stars": 21371,
+            "stars": 21370,
             "topics": [
               "awesome",
               "awesome-list",
@@ -410,7 +410,7 @@
             "open_issues": 4,
             "owner": "pardeike",
             "repo": "Harmony",
-            "stars": 6631,
+            "stars": 6632,
             "topics": [
               "cil",
               "csharp",
@@ -815,7 +815,7 @@
             "open_issues": 5,
             "owner": "federico-busato",
             "repo": "Modern-CPP-Programming",
-            "stars": 16066,
+            "stars": 16068,
             "topics": [
               "c-plus-plus",
               "code-quality",
@@ -1056,7 +1056,7 @@
             "open_issues": 31,
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18694,
+            "stars": 18695,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
@@ -1183,7 +1183,7 @@
             "open_issues": 4,
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35383,
+            "stars": 35384,
             "topics": [
               "architecture",
               "awesome",
@@ -1444,7 +1444,7 @@
             "open_issues": 9,
             "owner": "StefanoCecere",
             "repo": "awesome-opensource-unity",
-            "stars": 2081,
+            "stars": 2090,
             "topics": [
               "assets",
               "awesome",
@@ -1688,7 +1688,7 @@
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "godot-csharp-essentials",
-            "stars": 342,
+            "stars": 343,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
@@ -1981,7 +1981,7 @@
             "open_issues": 12,
             "owner": "Yuan-ManX",
             "repo": "ai-game-devtools",
-            "stars": 1320,
+            "stars": 1321,
             "topics": [
               "ai-agents",
               "ai-game-development",
@@ -2190,7 +2190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:06.451Z",
+    "last_updated": "2026-08-29T07:50:05.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources to game development.",
