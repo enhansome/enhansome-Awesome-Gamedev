@@ -1183,7 +1183,7 @@
             "open_issues": 8,
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35543,
+            "stars": 35544,
             "topics": [
               "architecture",
               "awesome",
@@ -1654,7 +1654,7 @@
             "open_issues": 3,
             "owner": "MrRobinOfficial",
             "repo": "Guide-UnrealEngine",
-            "stars": 1442,
+            "stars": 1443,
             "topics": [
               "cpp",
               "docs",
@@ -1712,8 +1712,8 @@
             "id": 3925242,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-03T01:11:51Z",
-            "open_issues": 285,
+            "last_commit": "2026-10-03T05:10:43Z",
+            "open_issues": 286,
             "owner": "bkaradzic",
             "repo": "bgfx",
             "stars": 17531,
@@ -2191,7 +2191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:58.096Z",
+    "last_updated": "2026-10-03T06:25:16.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources to game development.",
