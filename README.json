@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 211,
+            "open_issues": 213,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41378,
+            "stars": 41385,
             "topics": [
               "animations",
               "awesome",
@@ -186,7 +186,7 @@
             "open_issues": 21,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13170,
+            "stars": 13171,
             "topics": [
               "cpp",
               "cpp11",
@@ -274,10 +274,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-26T05:16:53Z",
-            "open_issues": 163,
+            "open_issues": 166,
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21639,
+            "stars": 21641,
             "topics": [
               "awesome",
               "awesome-list",
@@ -330,10 +330,10 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-02-27T03:26:22Z",
-            "open_issues": 217,
+            "open_issues": 218,
             "owner": "thangchung",
             "repo": "awesome-dotnet-core",
-            "stars": 21398,
+            "stars": 21397,
             "topics": [
               "awesome",
               "awesome-list",
@@ -361,7 +361,7 @@
             "open_issues": 4,
             "owner": "AnthonyCalandra",
             "repo": "modern-cpp-features",
-            "stars": 21897,
+            "stars": 21900,
             "topics": [
               "cpp",
               "cpp11",
@@ -389,7 +389,7 @@
             "open_issues": 7,
             "owner": "r-lyeh",
             "repo": "single_file_libs",
-            "stars": 10021,
+            "stars": 10022,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
@@ -410,7 +410,7 @@
             "open_issues": 17,
             "owner": "pardeike",
             "repo": "Harmony",
-            "stars": 6678,
+            "stars": 6679,
             "topics": [
               "cil",
               "csharp",
@@ -443,7 +443,7 @@
             "open_issues": 1002,
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76240,
+            "stars": 76238,
             "topics": [
               "books",
               "cs",
@@ -471,7 +471,7 @@
             "open_issues": 29,
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5078,
+            "stars": 5079,
             "topics": [
               "audio",
               "c",
@@ -650,7 +650,7 @@
             "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19935,
+            "stars": 19940,
             "topics": [
               "3d",
               "3d-graphics",
@@ -715,7 +715,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-30T05:09:08Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "pantor",
             "repo": "inja",
             "stars": 1997,
@@ -765,7 +765,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-07-04T09:29:55Z",
-            "open_issues": 285,
+            "open_issues": 284,
             "owner": "CubeCoders",
             "repo": "AMP",
             "stars": 251,
@@ -815,7 +815,7 @@
             "open_issues": 5,
             "owner": "federico-busato",
             "repo": "Modern-CPP-Programming",
-            "stars": 16188,
+            "stars": 16193,
             "topics": [
               "c-plus-plus",
               "code-quality",
@@ -897,7 +897,7 @@
             "open_issues": 85,
             "owner": "bombomby",
             "repo": "optick",
-            "stars": 3160,
+            "stars": 3159,
             "topics": [
               "c-plus-plus",
               "games",
@@ -920,10 +920,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-08-27T10:58:50Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8717,
+            "stars": 8719,
             "topics": [
               "cpp",
               "csharp",
@@ -1104,7 +1104,7 @@
             "open_issues": 35,
             "owner": "microsoft",
             "repo": "DirectXTK",
-            "stars": 2858,
+            "stars": 2860,
             "topics": [
               "cpp-library",
               "desktop",
@@ -1216,10 +1216,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
-            "open_issues": 328,
+            "open_issues": 327,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28282,
+            "stars": 28285,
             "topics": [
               "actions",
               "actions-list",
@@ -1245,7 +1245,7 @@
             "id": 156317154,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:11:56Z",
+            "last_commit": "2026-10-04T02:09:40Z",
             "open_issues": 0,
             "owner": "theonedev",
             "repo": "onedev",
@@ -1370,7 +1370,7 @@
             "open_issues": 14,
             "owner": "nicholas-maltbie",
             "repo": "OpenKCC",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "character-cotnroller",
               "game-development",
@@ -1477,7 +1477,7 @@
             "open_issues": 15,
             "owner": "baba-s",
             "repo": "awesome-unity-open-source-on-github",
-            "stars": 4481,
+            "stars": 4482,
             "topics": [
               "awesome-list",
               "unity",
@@ -1654,7 +1654,7 @@
             "open_issues": 3,
             "owner": "MrRobinOfficial",
             "repo": "Guide-UnrealEngine",
-            "stars": 1443,
+            "stars": 1441,
             "topics": [
               "cpp",
               "docs",
@@ -1712,11 +1712,11 @@
             "id": 3925242,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-03T05:10:43Z",
-            "open_issues": 286,
+            "last_commit": "2026-10-04T06:27:26Z",
+            "open_issues": 285,
             "owner": "bkaradzic",
             "repo": "bgfx",
-            "stars": 17531,
+            "stars": 17536,
             "topics": [
               "d3d11",
               "d3d12",
@@ -1755,7 +1755,7 @@
             "open_issues": 24,
             "owner": "DiligentGraphics",
             "repo": "DiligentEngine",
-            "stars": 4459,
+            "stars": 4461,
             "topics": [
               "3d-engine",
               "d3d11",
@@ -1803,7 +1803,7 @@
             "open_issues": 10,
             "owner": "BandaiNamcoResearchInc",
             "repo": "Bandai-Namco-Research-Motiondataset",
-            "stars": 3339,
+            "stars": 3337,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:55.676Z"
@@ -1827,10 +1827,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-26T13:55:50Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17407,
+            "stars": 17419,
             "topics": [
               "art",
               "awesome",
@@ -1889,7 +1889,7 @@
             "open_issues": 3,
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3560,
+            "stars": 3563,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1937,10 +1937,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-01T15:17:24Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "devanshutak25",
             "repo": "3d-resources",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "3d",
               "3d-resources",
@@ -1982,7 +1982,7 @@
             "open_issues": 14,
             "owner": "Yuan-ManX",
             "repo": "ai-game-devtools",
-            "stars": 1354,
+            "stars": 1355,
             "topics": [
               "ai-agents",
               "ai-game-development",
@@ -2046,7 +2046,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3161,
+            "stars": 3162,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2094,7 +2094,7 @@
             "open_issues": 3,
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3560,
+            "stars": 3563,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2124,7 +2124,7 @@
             "open_issues": 3,
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3560,
+            "stars": 3563,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2191,7 +2191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:25:16.718Z",
+    "last_updated": "2026-10-04T06:48:06.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources to game development.",
